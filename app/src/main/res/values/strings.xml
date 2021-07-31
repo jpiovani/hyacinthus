@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hyacinthus</string>
+    <string name="botaoBRA">Brasileiro</string>
+    <string name="botaoASI">Asiático</string>
+    <string name="botaoAME">Americano</string>
+    <string name="texto_INFO">Assitiu um filme/ serie que deixou saudades mas não lembra o nome? Escolha o tipo e bora descobrir juntos...</string>
+    <string name="Titulo_Asi">Asiático</string>
+    <string name="Titulo_Ame">Americano</string>
+    <string name="lembrar_info">O que você lembra?</string>
+    <string name="botaoBuscar">Buscar</string>
+    <string name="tituloFilmesSeries" />
+    <string name="descricao" />
+    <string name="botaoNao">Não é esse :(</string>
+    <string name="botaoSim">É esse :)</string>
+    <string name="botaoVoltar">Voltar</string>
+</resources>
